@@ -1,0 +1,24 @@
+{
+  "name": "VanillaRedux",
+  "version": "1.0.0",
+  "description": "Vanilla환경에서 Redux 구현",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maul5/VanillaRedux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maul5/VanillaRedux/issues"
+  },
+  "homepage": "https://github.com/maul5/VanillaRedux#readme",
+  "dependencies": {
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6"
+  }
+}
